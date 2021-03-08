@@ -1,0 +1,20 @@
+/* 
+background blue done
+h1 center
+remove decoration
+horizantal list
+image smaller
+change font color
+
+*/
+header{background-color: rgb(125, 231, 226);}
+h1{text-align: center;}
+ul{list-style: none;}
+img{width: 40%;
+    margin-left:60px;
+}
+body{background-color: #01F4FF;}
+li{display: inline;}
+
+#colorpink{color:rgb(133, 5, 27)}
+.colorpurble{color:blue}
